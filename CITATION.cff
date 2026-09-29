@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "Min-Max Bidirectional Selection Sort (MMBSS)"
+authors:
+  - family-names: Nistor
+    given-names: George
+version: 1.0.0
+date-released: 2026-09-29
+repository-code: "https://github.com/georgenistor-onebluegate/min-max-sort-v3"
+abstract: "An in-place bidirectional selection sort that identifies the minimum and maximum of the active unsorted region during one traversal and places them at opposite boundaries."
+keywords:
+  - sorting algorithm
+  - selection sort
+  - bidirectional sorting
+  - min-max sort
+  - Python
+license: MIT
