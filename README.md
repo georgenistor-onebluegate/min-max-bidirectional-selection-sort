@@ -42,4 +42,4 @@ The versioned v1.0.0 release is archived through Zenodo and identified by DOI **
 
 ## Repository
 
-GitHub: https://github.com/georgenistor-onebluegate/min-max-sort-v3
+GitHub: https://github.com/georgenistor-onebluegate/min-max-bidirectional-selection-sort
